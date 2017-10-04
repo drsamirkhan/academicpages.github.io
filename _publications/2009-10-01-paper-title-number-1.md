@@ -6,7 +6,7 @@ excerpt: 'Modern complex mechanical systems, such as a fuel system, often face a
 date: 2017-10-01
 venue: 'CIRP Journal of Manufacturing Science and Technology'
 paperurl: ''
-citation: 'Khan, Samir (2017). &quot;Evaluating No Fault Found problems during System Design.&quot; <i>CIRP Journal of Manufacturing Science and Technology</i>. 1(1).'
+citation: 'Khan, et al (2017). &quot;Evaluating No Fault Found problems during System Design.&quot; <i>CIRP Journal of Manufacturing Science and Technology</i>. 1(1).'
 ---
 
 Recommended citation: Khan, S., Gorringe, C., Farnsworth, M. (2017). "Evaluating No Fault Found problems during System Design".<i> CIRP Journal of Manufacturing Science and Technology</i>. 1(1).
