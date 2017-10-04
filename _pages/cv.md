@@ -24,13 +24,13 @@ Work experience
 
 * 2015-2016: Lecturer in Aerospace
   * Coventry University, UK
-  * Application of neural networks to aircraft engine No Fault Found prediction 
+  * Application of neural networks to aircraft engine fault prediction 
   * Teaching avionics, control design, Matlab and management modules
   * Supervisor: Professor Hub
   
 * 2011-2015: Research Fellow
   * Cranfield University, UK
-  * Development of new research discpline called 'No Fault Found' 
+  * Development of a new research discpline called 'No Fault Found' 
   * Application of machine learning for off-line fault detection 
   * Validation and verification of algorithms and control features 
   * Implementation of real-time testing of embedded systems  
