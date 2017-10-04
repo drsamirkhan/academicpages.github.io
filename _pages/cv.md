@@ -38,6 +38,7 @@ Work experience
 
 * 2010-2011: Systems Engineer
   * Thales Transportation, UK
+  * A
   * Asset reliability and fault modelling 
 
 Publications
