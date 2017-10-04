@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samir Khan"
 title_separator          : "-"
 name                     : &name "Samir Khan"
-description              : &description "Research scientist in University of Tokyo"
+description              : &description "Research Scientist at the University of Tokyo"
 url                      : https://drsamirkhan.github.io/tkhan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tkhan.github.io/"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Dr Samir Khan"
   avatar           : "profile.png"
-  bio              : "Research scientist in University of Tokyo"
+  bio              : "Research Scientist in the University of Tokyo"
   location         : "Tokyo"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=SXhdbmCQWlQC&hl=en"
