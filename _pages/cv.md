@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BEng. in Electronic and Electrical Engineering, Loughborough University, 2006
+* Ph.D in Control Theory, Loughborough University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-present: JSPS Research Fellowship
+  * University of Tokyo, Japan
+  * Application of deep learning for system health management problems
+  * Develop techniques to detect early faults and anomaly detection
+  * Bayesian methods to represent uncertainty in deep learning approaches 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2015-2016: Lecturer in Aerospace
+  * Coventry University, UK
+  * Application of neural networks to aircraft engine No Fault Found prediction 
+  * Teaching avionics, control design, Matlab and management modules
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ * 2011-2015: Research Fellow
+  * Cranfield University, UK
+  * Development of new research discpline called 'No Fault Found' 
+  * Application of machine learning for off-line fault detection 
+  * Validation and verification of algorithms and control features 
+  * Implementation of real-time testing of embedded systems  
+  * Design and development of an intermittent fault emulator
+  
+ * 2010-2011: Systems Engineer
+  * Thales Transportation, UK
+  * Asset reliability and fault modelling 
 
 Publications
 ======
@@ -54,6 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
