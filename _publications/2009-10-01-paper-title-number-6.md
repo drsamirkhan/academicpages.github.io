@@ -10,5 +10,3 @@ citation: 'Khan, et al (2015). &quot;Studying the impact of intermittent variati
 ---
 
 Recommended citation: Khan, S., Phillips, P., and Jennions, I. (2015). "Studying the impact of intermittent variations using sensitivity analysis".<i> International Journal of Condition Monitoring</i>. 5(3), 6-11(6).
-
-Khan, S., Phillips, P., and Jennions, I. (2015) 'Studying the impact of intermittent variations using sensitivity analysis'. International Journal of Condition Monitoring 5 (3), 6-11(6). Available from http://dx.doi.org/10.1784/204764215816195883
