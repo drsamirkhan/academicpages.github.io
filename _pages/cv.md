@@ -30,12 +30,12 @@ Work experience
   
 * 2011-2015: Research Fellow
   * Cranfield University, UK
-  * Development of a new research discpline called 'No Fault Found' 
   * Application of machine learning for off-line fault detection 
   * Validation and verification of algorithms and control features 
   * Implementation of real-time testing of embedded systems  
   * Design and development of an intermittent fault emulator
-  
+  * Development of a new research discpline called 'No Fault Found' 
+
 * 2010-2011: Systems Engineer
   * Thales Transportation, UK
   * Asset reliability and fault modelling 
