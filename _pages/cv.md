@@ -28,7 +28,7 @@ Work experience
   * Teaching avionics, control design, Matlab and management modules
   * Supervisor: Professor Hub
   
- * 2011-2015: Research Fellow
+* 2011-2015: Research Fellow
   * Cranfield University, UK
   * Development of new research discpline called 'No Fault Found' 
   * Application of machine learning for off-line fault detection 
@@ -36,7 +36,7 @@ Work experience
   * Implementation of real-time testing of embedded systems  
   * Design and development of an intermittent fault emulator
   
- * 2010-2011: Systems Engineer
+* 2010-2011: Systems Engineer
   * Thales Transportation, UK
   * Asset reliability and fault modelling 
 
