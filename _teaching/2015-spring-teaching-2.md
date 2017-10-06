@@ -2,7 +2,7 @@
 title: "Lecturer on NFF"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: https://github.com/drsamirkhan/tkhan.github.io/blob/master/files/NFF%20Research%20introduction.pptx
 venue: "Cranfield University"
 date: 2015-01-01
 location: "Cranfield, UK"
