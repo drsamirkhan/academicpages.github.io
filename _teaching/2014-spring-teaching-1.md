@@ -2,7 +2,7 @@
 title: "Lecturer in Aerospace"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://github.com/drsamirkhan/tkhan.github.io/blob/master/files/paper%2032.pptx
+permalink: /2014-spring-teaching-1/
 venue: "Coventry University"
 date: 2016-01-01
 location: "Coventry, UK"
