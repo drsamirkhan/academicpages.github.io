@@ -6,9 +6,7 @@ useful life of system components. By utilising historical data, data models are 
 learning and statistical concepts. Once trained, the logic for data processing can be embedded on
 on-board microcontrollers whilst enabling real-time health assessment and analysis. The work has a
 focus towards aerospace applications, for increasing overall system resilience and potential cost
-benefits for maintenance, repair and overhaul activities.
-<a href="https://github.com/drsamirkhan/tkhan.github.io/blob/master/files/paper%2032.pptx">Visit our HTML tutorial</a>
-Download presentation »"
+benefits for maintenance, repair and overhaul activities. »"
 collection: portfolio
 ---
 
