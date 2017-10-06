@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Reduction of No Fault Found (NFF) through improved design"
+excerpt: "The research project addressed the inherent causes of NFF resulting from inadequacies in electronic equipment design. For example the design of a Built-In-Test-Equipment (BITE) which relies upon an in-depth knowledge of all system interactions. There also is the inevitable case where failure mechanisms only manifest themselves during a limited envelope of operation. These scenarios may not be recognised during design due to limits on system understanding resulting in the selection of inappropriate detection and confirmation strategies leading to a NFF susceptible design. Other areas which are of importance include inappropriate designed limit, software coding errors, inadequate procedures and when the process depends on human judgement for design and validation activities.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
