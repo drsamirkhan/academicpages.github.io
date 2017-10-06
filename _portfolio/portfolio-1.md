@@ -1,6 +1,12 @@
 ---
-title: "Reduction of No Fault Found (NFF) through improved design"
-excerpt: "The research project addressed the inherent causes of NFF resulting from inadequacies in electronic equipment design. For example the design of a Built-In-Test-Equipment (BITE) which relies upon an in-depth knowledge of all system interactions. There also is the inevitable case where failure mechanisms only manifest themselves during a limited envelope of operation. These scenarios may not be recognised during design due to limits on system understanding resulting in the selection of inappropriate detection and confirmation strategies leading to a NFF susceptible design. Other areas which are of importance include inappropriate designed limit, software coding errors, inadequate procedures and when the process depends on human judgement for design and validation activities.<br/><img src='/images/500x300.png'>"
+title: "Application of deep learning in system health management"
+excerpt: "I am investigating various deep learning architectures including autoencoders and recurrent neural networks so that they can used for fault detection and isolation. This becomes important in the systems development life cycle if artificial
+intelligence is to be used to detect anomalies, analyse faults/failures and predict the remaining
+useful life of system components. By utilising historical data, data models are trained using machine
+learning and statistical concepts. Once trained, the logic for data processing can be embedded on
+on-board microcontrollers whilst enabling real-time health assessment and analysis. The work has a
+focus towards aerospace applications, for increasing overall system resilience and potential cost
+benefits for maintenance, repair and overhaul activities.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
