@@ -104,12 +104,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  researchgate     : "https://www.researchgate.net/profile/Samir_Khan4"
 
 
 # Reading Files
