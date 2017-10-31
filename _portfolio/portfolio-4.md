@@ -11,6 +11,8 @@ In 2011, I held a Postdoctoral researcher position at Cranfield University on an
 3)	Estimating the impact of faults from a finance and safety point of view: This work was a continuation of the above two research results where the results were used to estimate the financial costs when faults occur. This was particularly difficult to obtain with very little information in the public domain - which means that the result was highly uncertain and hence further required a probabilistic approach to estimate its impact. Bayesian methods were used to factor in uncertainty.
 4)	After achieving the previous three goals I moved my focus on research to be implemented on a UAV fuel rig to demonstrate it practical significance. The main aim was predict the faults and its impact on a real application. I used a fuel rig was (using a proprietary diagnostic software called DSI STAGE Tool) to help understand the existing design limitations associated with system testability. A Failure Mode and Effects Analysis (FMEA) was defined to identify the critical (mission) failures. Using this information, different sensor placements were made to improve the fuel rig design. Finally, the impact of design changes was documented with regards to the overall reliability of the design.
 
+![](https://github.com/drsamirkhan/tkhan.github.io/blob/master/files/Fig1_nff.png?raw=true)
+
 I recently published a book about my work: http://books.sae.org/r-441/
 
 I also published 7 journal articles in high impact journals! How cool is that... but it does show the importance of my research and my ability to contributed to scientific knowledge :p
