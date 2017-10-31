@@ -1,5 +1,5 @@
 ---
-title: ["Application of deep learning in system health management"](https://www.google.com)
+title: "Application of deep learning in system health management"
 excerpt: "I am investigating various deep learning architectures including autoencoders and recurrent neural networks so that they can used for fault detection and isolation. This becomes important in the systems development life cycle if artificial
 intelligence is to be used to detect anomalies, analyse faults/failures and predict the remaining
 useful life of system components. By utilising historical data, data models are trained using machine
