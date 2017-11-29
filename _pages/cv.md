@@ -28,7 +28,7 @@ Work experience
   * Teaching avionics, control design, Matlab and management modules
   * Supervisor: Professor Hub
   
-* 2011-2015: Research Fellow
+* 2012-2015: Project Manager/Research Fellow
   * Cranfield University, UK
   * Application of machine learning for off-line fault detection 
   * Validation and verification of algorithms and control features 
