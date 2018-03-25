@@ -14,6 +14,5 @@ My work revolves around intelligent monitoring of failures in electronic systems
 
 This website includes almost everything that I am involved with in my research and teaching, as well most of what I write. It started off as a modest attempt to capture my work as I move ahead... so has grown over time. I have tried to collect as much content as I can into this site... which means that navigating it might be a challenge.
 
-<p align="center">
 ![](https://github.com/drsamirkhan/tkhan.github.io/blob/master/files/Samir94.png?raw=true)
-</p>
+
