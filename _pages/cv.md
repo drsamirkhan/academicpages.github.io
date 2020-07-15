@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2016-present: Assocaite Professor
+* 2018-present: Assocaite Professor
   * University of Tokyo, Japan
   * Autonomous system control using reinforcement learning policy search methods
   * Data-driven digital twin for decision making
