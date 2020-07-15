@@ -16,7 +16,19 @@ Education
 
 Work experience
 ======
-* 2016-present: JSPS Research Fellowship
+* 2016-present: Assocaite Professor
+  * University of Tokyo, Japan
+  * Autonomous system control using reinforcement learning policy search methods
+  * Data-driven digital twin for decision making
+  * Understand the underlying interplay between the AI hardware and physical world, and the available computation, communication, and control resources
+  
+* 2016-2018: Research Scientist
+  * FPGA based inference with streaming data
+  * Reservoir computing for sensing applications
+  * Development of redundant transistor logic circuits 
+  * FPGA based inference with streaming data
+  
+* 2016-2018: JSPS Research Fellowship Award
   * University of Tokyo, Japan
   * Application of deep learning for system health management problems
   * Develop techniques to detect early faults and anomaly detection
