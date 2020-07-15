@@ -18,18 +18,21 @@ Work experience
 ======
 * 2018-present: Assocaite Professor
   * University of Tokyo, Japan
+  * I am working on the development of autonomous satellites with multiple subsystems that collaboratively solve complicated tasks by local sensing, control, and communication  
   * Autonomous system control using reinforcement learning policy search methods
   * Data-driven digital twin for decision making
   * Understand the underlying interplay between the AI hardware and physical world, and the available computation, communication, and control resources
   
 * 2016-2018: Research Scientist
+  * I worked on developing AI technology in UAVs with a focus on hardware implementation
   * FPGA based inference with streaming data
   * Reservoir computing for sensing applications
   * Development of redundant transistor logic circuits 
-  * FPGA based inference with streaming data
+  * Implementation of the isolation forest algorithm for online anomaly detection
   
 * 2016-2018: JSPS Research Fellowship Award
   * University of Tokyo, Japan
+  * I was awarded a Japanese Society for the Promotion of Science (JSPS) Postdoctoral Fellowship for Research. I worked at the Artificial Intelligence group on a project titled: “Real-time implementation of deep learning methods for failure detection”. The main research goal is focused on identifying the impact of ‘hidden’ failures in space applications. This involved the application of novel data-driven algorithms that learn/process system data to make system level decisions on the diagnosis and prognosis of system units. 
   * Application of deep learning for system health management problems
   * Develop techniques to detect early faults and anomaly detection
   * Bayesian methods to represent uncertainty in deep learning approaches 
