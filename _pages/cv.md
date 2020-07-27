@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2018-present: Assocaite Professor
+* 2018-present: Associate Professor
   * University of Tokyo, Japan
   * I am working on the development of autonomous satellites with multiple subsystems that collaboratively solve complicated tasks by local sensing, control, and communication  
   * Autonomous system control using reinforcement learning policy search methods
