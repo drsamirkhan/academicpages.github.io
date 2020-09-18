@@ -1,5 +1,5 @@
 ---
-title: "Evaluating daignostic failures during System Design"
+title: "Evaluating diagnostic failures during System Design"
 collection: publications
 permalink: /publication/2018-10-01-paper-title-number-1
 excerpt: 'Modern complex mechanical systems, such as a fuel system, often face a high number of No Fault Found (NFF) events due to design limitations associated with testability. Therefore, this paper investigates how the diagnostic analysis of a system that can be improved to help recognise and reduce failure ambiguity groups that lead to NFF events. The simulation-based evaluation investigates the replacement of failed components to demonstrate a method for estimating cumulative replacement costs due to false avionic unit removals and hence, the overall system life-cycle costs during the design stage. The analysis may be used not only as a baseline for the prediction of NFF rates, but also as a measure of how maintenance requirements might change over the intended lifetime of a system.ture work.'
